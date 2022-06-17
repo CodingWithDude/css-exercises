@@ -1,5 +1,10 @@
 .odd {
     background-color: rgb(235, 115, 145);
     font-family: "Veranda", "DejaVu Sans", sans-serif;
-    
+
+}
+
+#num2 {
+    color: rgb(3, 14, 110);
+    font-size: 36px;
 }
